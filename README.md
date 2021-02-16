@@ -8,4 +8,5 @@
 
 - 1 kg de Frango
 - Leite
-- Molho
+- Molho vermelho
+- 2 xícaras de cogumelos
