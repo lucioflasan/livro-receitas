@@ -4,6 +4,10 @@
 
 
 
+# RECEITA DE STROGONOFF
+
+
+
 ## Lista de Ingridientes:bookmark_tabs:	
 
 - 1 peito de frango  sem pele nem osso (cerca de 700 g)
@@ -25,3 +29,6 @@
 ### Bootcamp Inter Java Developer
 
 ##### :man_teacher: Prof Otávio Reis Perkles (github.com/Perkles)
+
+ ###### Aluno: Lucio Flávio Santos
+
